@@ -1,8 +1,8 @@
 Name: Bharati Wani	
 Date: Dec 19th, 2012
 
-URL: http://osl81.njit.edu/~bw59/AddressBook/AddressBook.html
-Email: bw59@.njit.edu
+URL: http://osl81.njit.edu/~bw59/AddressBook/AddressBook.html(Can be accessed through NJIT network)
+Email: bw59@njit.edu
 
 Description:
 
